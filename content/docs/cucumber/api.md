@@ -976,7 +976,6 @@ to change operator precedence:
 ```
 (@smoke or @ui) and (not @slow)
 ```
-Tags 
 ## Using tags for documentation 
 
 Your imagination is the only limitation when it comes to using tags for documentation.
